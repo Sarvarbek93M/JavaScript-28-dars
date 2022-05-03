@@ -1,0 +1,5 @@
+Foydali Link:
+
+Metodlar: https://developer.mozilla.org/ru/docs/Web/API/EventTarget/addEventListener
+
+Royhat: https://oddler.ru/blog/i63
